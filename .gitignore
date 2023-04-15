@@ -1,3 +1,8 @@
+# Hidden files
+.*
+!/.gitignore
+!/.env
+
 # Dependencies
 /node_modules
 
