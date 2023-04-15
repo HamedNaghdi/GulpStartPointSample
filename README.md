@@ -20,6 +20,18 @@ npm install --save-dev gulp
 
 Using your text editor, create a file named gulpfile.js in your project
 
+### install required packages
+
+For example I've installed these packages:
+
+- npm install sass gulp-sass gulp-sourcemaps gulp-concat dotenv gulp-if gulp-if-env gulp-uglify browser-sync --save-dev
+
+and etc.
+
+## Run Project
+
+Run project and explore to index.html file, have fun.
+
 ## Project Structure
 
 |- src/
