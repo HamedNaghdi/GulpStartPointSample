@@ -1,0 +1,26 @@
+{
+  "name": "gulpstartpointsample",
+  "version": "1.0.0",
+  "description": "Simple access to how Gulp works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamedNaghdi/GulpStartPointSample.git"
+  },
+  "keywords": [
+    "Gulp",
+    "sample"
+  ],
+  "author": "Hamed Naghdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HamedNaghdi/GulpStartPointSample/issues"
+  },
+  "homepage": "https://github.com/HamedNaghdi/GulpStartPointSample#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
